@@ -3,10 +3,6 @@ Facebook bot for volleyball group
 
 This project will be a bot that will poll, manage, and track volleyball facebook group
 
-1. it will schedule dates for volleyball weekly
-2. it will track attendance
-3. it will track payments
-
 1. it will schedule dates in the facebook group with a poll
    the poll will open noon Saturday, and it will close at 6 pm Wednesday
    all the people who voted on the poll for the winning day will be the expected attendance
